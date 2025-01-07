@@ -1,0 +1,25 @@
+
+.dropdown-toggle::after{
+    display: none !important;
+  }
+
+  ul{ 
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  a:link, a:visited, a:hover, a:active {
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+
+  .templatecolor{
+    background-color: #47BAC1;
+     color: white;
+  }
+
+  .topcolor{
+   background-color: black;
+   color: white;
+  }
